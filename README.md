@@ -26,6 +26,8 @@ ng build
 ---
 
 ##Project Structure 
+
+```bash
 src/
   app/
     components/
@@ -37,6 +39,7 @@ src/
     services/
   assets/
   environments/
+```
 
 
 
